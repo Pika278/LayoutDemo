@@ -38,7 +38,7 @@
             <ImageView
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:src="@drawable/stdudent">
+                android:src="@drawable/student">
             </ImageView>
         </LinearLayout>
     </LinearLayout>
